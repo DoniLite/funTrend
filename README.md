@@ -1,1 +1,1 @@
-# funTrend ![icon](./www//assets/icon.svg)
+# funTrend <img src="./www//assets/icon.svg" alt="Project icon" style="width: 10px; height: 10px" />
