@@ -1,5 +1,5 @@
-/target
-/node_modules
+/**/target
+/**/node_modules
 /www/js
 /www/css
 .env
